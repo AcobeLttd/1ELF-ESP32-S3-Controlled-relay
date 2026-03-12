@@ -28,9 +28,11 @@ The component list is split up between **High Voltage** and **Low Voltage** comp
 >
 > Power bar with the wall connector cut off.
 >
-> E14 light bulb socket
+> E14 light bulb socket.
 >
-> E14 light bulb
+> E14 light bulb.
+>
+> USB Power brick.
 
 ### **Aquiring components**
 
@@ -42,7 +44,9 @@ The relay was given to me by a teacher, but it was originally bought from kjell 
 
 The terminal junction box was given to me by a teacher.
 
-The E14 Light bulb socket was found in the backroom of the Makerspace.
+The E14 Light bulb socket was found in the back room of the Makerspace.
 
 The E14 light bulb was given to me by a teacher.
+
+The USB power brick was found in the back room of the makerspace while the USB-C cable i already had in my backpack.
 
