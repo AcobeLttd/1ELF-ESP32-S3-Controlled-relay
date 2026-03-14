@@ -50,3 +50,10 @@ The E14 light bulb was given to me by a teacher.
 
 The USB power brick was found in the back room of the makerspace while the USB-C cable i already had in my backpack.
 
+## Schematics
+Here are the schematics
+There are the original schematics and a PCB version.
+
+### Original Schematic
+https://github.com/AcobeLttd/1ELF-ESP32-S3-Controlled-relay/blob/321e7b3ae2a83e93db54c75e7673907372022ccd/Schematics/Original/Original%20Schematic.png
+
