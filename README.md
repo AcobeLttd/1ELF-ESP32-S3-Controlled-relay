@@ -55,5 +55,5 @@ Here are the schematics
 There are the original schematics and a PCB version.
 
 ### Original Schematic
-https://github.com/AcobeLttd/1ELF-ESP32-S3-Controlled-relay/blob/321e7b3ae2a83e93db54c75e7673907372022ccd/Schematics/Original/Original%20Schematic.png
+![Orginal Image](https://github.com/AcobeLttd/1ELF-ESP32-S3-Controlled-relay/blob/321e7b3ae2a83e93db54c75e7673907372022ccd/Schematics/Original/Original%20Schematic.png)
 
